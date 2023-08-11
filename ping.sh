@@ -1,7 +1,7 @@
 #!/bin/bash
 
 ### AUTHOR:         Lanisha (github: l4n1skyy)
-### PROJECT REPO:   https://github.com/l4n1skyy/polybar-network-ms
+### PROJECT REPO:   https://github.com/l4n1skyy/polybar-ping
 
 while true
 do
